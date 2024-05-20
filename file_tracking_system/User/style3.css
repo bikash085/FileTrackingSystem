@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+@charset "utf-8";
+/* CSS Document */
+body{
+	padding:10px;
+	margin:10px;
+}
+.seba{
+	text-align:center;
+	background-color:#FFF;
+	color:#0CF;
+	top:0px;
+	padding:5px;
+	font-weight:bold;
+	
+	
+}
+.header{
+	background-color:#030;
+	color:#FFF;
+	text-align:center;
+	top:0px;
+	width:auto;
+	padding:5px;
+}
+form{
+	width:auto;
+	padding:30px;
+	border:1px solid #5E6E66;
+	border-radius:0px;
+	background-color:#CCC;
+	margin-left:-50px;
+	
+}
+
+
+
+.form-control{
+	background:rgba(255,255,255,0.2);
+	border:0px;
+	border-radius:0px;
+	border-bottom:2px solid white;
+	font-size:21px;
+	color:white;
+	margin-top:0px;
+}
+
+.btn-info{
+	margin-top:20px;
+	margin-left:0px;
+	width:180px;
+	font-size:19px;
+	border-radius:1000px;
+}
+
+
+
+
